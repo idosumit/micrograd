@@ -1,7 +1,7 @@
 # Micrograd
 
 > [!Note]
-> Implementation Status: Completed
+> Implementation Status: **`Completed`**
 
 Extensive notes not yet done, will do sometime later
 
